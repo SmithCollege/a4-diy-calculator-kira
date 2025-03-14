@@ -51,6 +51,10 @@ public class Tokenizer {
 
   /** Run short test */
   public static void main(String[] args) {
+  args = new String[] {
+    "3 + 4"
+  };
+
     if (args.length==0) {
       System.err.println("Usage:  java Tokenizer <expr>");
     } else {
