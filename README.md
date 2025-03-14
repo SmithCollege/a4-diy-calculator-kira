@@ -4,13 +4,14 @@
 
 Your readme should include the following information. Each student needs to submit all of this information themselves, even when pair programming. 
 
-Group Member Name(s):
+Group Member Name(s): NA
 
-Other collaborators you worked with, including TAs (and feel free to give a shoutout to anyone who was particularly helpful):
+Other collaborators you worked with, including TAs (and feel free to give a shoutout to anyone who was particularly helpful): NA
 
-Any references used besides JavaDoc and course materials:
+Any references used besides JavaDoc and course materials: NA
 
-Reflection on your experience with this assignment:
+Reflection on your experience with this assignment: 
+I found visual prototyping to be very interesting, kind of like designing a game system, and it's definitely the hardest part of this assignment, or more specifically, how to define separate conditions that process the token queue. After completing it I feel like I've gain a deeper understanding of how queue and stack works and how they are applicable in different circumstance based on their FIFO and FILO nature. I feel like the instruction of this assignment is very clear, and the provided testing classes are great and very rewarding when the code successfully passed these tests. Because I didn't completelly follow the instruction and performed the algorithm based on my own understanding of wikipedia description, it might looks slightly different. I think this thought process is worthwhile eventhough not necessary.
 
-This assignment does lend itself to more visual prototyping, so please feel free to go this route. Are you including slides, pseudocode, comments, or something else?
+This assignment does lend itself to more visual prototyping, so please feel free to go this route. Are you including slides, pseudocode, comments, or something else? NA
 
